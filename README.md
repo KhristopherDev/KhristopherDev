@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## Profile Visits
+<div>
+  <img align="center" src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+</div>
+
 <!--
 **KhristopherDev/KhristopherDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
