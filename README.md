@@ -2,7 +2,7 @@
 
 ## Profile Visits
 <div>
-  <img align="center" src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+  <img align="center" src="https://profile-counter.glitch.me/KhristopherDev/count.svg"/>
 </div>
 
 <!--
