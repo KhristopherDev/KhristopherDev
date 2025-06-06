@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/khristopher"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/khristopher" /></a></p><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
 
