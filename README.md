@@ -38,8 +38,8 @@
 
 </div>
 
-<img align="center" width="100%" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
+<img align="center" width="100%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
 
-<img align="center" width="100%" height="120px" src="https://github-readme-stats.vercel.app/api?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
+<img align="center" width="100%" height="320px" src="https://github-readme-stats.vercel.app/api?username=khristopherdev&show_icons=true&locale=en" alt="khristopherdev" />
 
-<img align="center" width="100%" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=khristopherdev&" alt="khristopherdev" />
+<img align="center" width="100%" height="320px" src="https://github-readme-streak-stats.herokuapp.com/?user=khristopherdev&" alt="khristopherdev" />
